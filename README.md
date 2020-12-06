@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Sanket 👋
 
-<!--
-**Sanket-H-Khandelwal/Sanket-H-Khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Currently working as a Data Engineer in Data Enablement team at Bose Corporation.
+I am passionate about problem-solving using programming languages like Python, R, and SQL. I like analyzing data to deliver actionable insights that transform business processes.
+Well versed in Data Analytics and Cloud Technologies. 
 
-Here are some ideas to get you started:
+Proven track record of having superior leadership skills and highly result-driven. 
+Previously a Data Governance Co-op at Bose Corporation .
+Also, worked Full - Time as a Business Analyst for 2 years at TryCatch Group. 
+Passionate about Statistical Data Analysis, Machine Learning and Business Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at - khandelwal.sa@northeastern.edu
+
