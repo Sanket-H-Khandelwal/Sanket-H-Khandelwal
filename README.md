@@ -1,7 +1,7 @@
 ### Hi I'm Sanket 👋
 
 
-I'm Currently working as a Data Engineer in Data Enablement team at Bose Corporation.
+I'm Currently working as a Data Engineer at Bose Corporation.
 
 I am passionate about problem-solving using programming languages like Python, R, and SQL. I like analyzing data to deliver actionable insights that transform business processes.
 
