@@ -1,4 +1,4 @@
-### Hi I'm Sanket 👋
+### Hi, I'm Sanket 👋
 
 
 I'm Currently working as a Data Engineer at Bose Corporation.
