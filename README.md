@@ -11,7 +11,7 @@ Proven track record of having superior leadership skills and highly result-drive
 
 Previously a Data Governance Co-op at Bose Corporation .
 
-Also, worked Full - Time as a Business Analyst at TryCatch Group. 
+Also, worked Full - Time as a Business Analyst at TryCatch Classes. 
 
 Passionate about Statistical Data Analysis, Machine Learning, Cloud Technologies and Business Analytics.
 
